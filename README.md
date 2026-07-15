@@ -81,7 +81,7 @@ ln -s /path/to/enke-mem-skill ~/.claude/skills/enke-mem
 
 ## Related
 
-Short links, file sharing, and landing pages live in the main [enke skill](https://github.com/zenkeellc/enke-skill).
+Short links, file sharing, and landing pages live in the main [enke skill](https://github.com/zenkeellc/enke-link-skill).
 
 ## License
 
